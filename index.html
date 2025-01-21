@@ -7,27 +7,32 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="box-containers">
+  <div class="box-containers" onkeypress="startHack()">
     <div class="box1"> 
     <div class="mini-box1"> 
-        <textarea  id="cli_1">
-        </textarea>
+        <textarea class="hidden-text"  id="cli_1" readonly></textarea>
+        <textarea class="hidden-text"  type="hidden"  id="cli_2" overflow="hidden" readonly></textarea>
+        <script src="scripts.js"></script>
             </div>    
             <div class="mini-box2">  
-            <textarea  id="cli_2">
-            </textarea>
+                <textarea class="hidden-text"  type="hidden"  id="cli_5" readonly></textarea>
+            <textarea class="hidden-text"  type="hidden"  id="cli_3" readonly></textarea>
+           
+            
+            <script src="scripts.js"></script>
     </div> 
     </div>
     <div class="box2">
         <h3 class="title">Nmap-ConfigV-remote: IP-192.168.68.96</h3>
         <div class="box2">
-            <textarea  class="cli" id="cli_3">
-
-
-
-            </textarea> 
+            <textarea class="hidden-text" type="hidden" id="cli_4" readonly></textarea>
+         
+            <script src="scripts.js"></script>
         </div>  
     </div>
- </div>
+    
+ </div> 
+
 </body>
+
 </html>
