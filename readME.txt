@@ -6,3 +6,6 @@ Thank you for visiting, and happy hacking!
 
 Skulls ascii art
 -https://emojicombos.com/skull-ascii-art
+
+View Live Page!
+https://muushyroom.github.io/typerhacker-clone/
