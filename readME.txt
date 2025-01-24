@@ -3,3 +3,6 @@ Welcome to our website! This platform is designed to give you an authentic hacki
 If you are interested in using our website for commercial purposes, please reach out to me through my GitHub account. I am open to discussing potential collaborations, partnerships, or any other commercial inquiries you may have.
 
 Thank you for visiting, and happy hacking!
+
+Skulls ascii art
+-https://emojicombos.com/skull-ascii-art
