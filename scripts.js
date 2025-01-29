@@ -212,10 +212,10 @@ let title = document.getElementById("resultTitle");
     }
     else if(hackNum == 9){
       for(let i = 1; i <=25; i++){
-        cli3.textContent += "----------------[Hack_Countermeasures_Activated!]----------------\r\n ";
-        cli3.textContent += "----------------[Hack_Countermeasures_Activated!]----------------\r\n ";
-        cli3.textContent += "----------------[Hack_Countermeasures_Activated!]----------------\r\n ";
-        cli3.textContent += "----------------[Hack_Countermeasures_Activated!]----------------\r\n ";
+        cli3.textContent += "        [Hack_Countermeasures_Activated!]\r\n ";
+        cli3.textContent += "             [Hack_Countermeasures_Activated!]\r\n ";
+        cli3.textContent += "                  [Hack_Countermeasures_Activated!]\r\n ";
+        cli3.textContent += "                       [Hack_Countermeasures_Activated!]\r\n ";
         hackNum = 9;
       }
       title.textContent = "[System Control = ██████████████████████░░░░ 80%]";
@@ -230,10 +230,10 @@ let title = document.getElementById("resultTitle");
     }
     else if(hackNum == 12){
       for(let i = 1; i <=69; i++){
-        cli3.textContent += "--------------------[System_Update: [Targeted!]]-----------------\r\n ";
-        cli3.textContent += "--------------------[System_Update: [Targeted!]]-----------------\r\n ";
-        cli3.textContent += "--------------------[System_Update: [Targeted!]]-----------------\r\n ";
-        cli3.textContent += "--------------------[System_Update: [Targeted!]]-----------------\r\n ";
+        cli3.textContent += "                          [System_Update: [Targeted!]]\r\n ";
+        cli3.textContent += "                        [System_Update: [Targeted!]]\r\n ";
+        cli3.textContent += "                      [System_Update: [Targeted!]]\r\n ";
+        cli3.textContent += "                    [System_Update: [Targeted!]]\r\n ";
         hackNum = 12;
       }
      
