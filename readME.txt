@@ -6,4 +6,4 @@ Skulls ascii art
 -https://emojicombos.com/skull-ascii-art
 
 View Live Page!
-https://muushyroom.github.io/typerhacker-clone/
+https://muushyroom.github.io/hackertyper-clone/
