@@ -5,6 +5,8 @@ body{
     color: #10FF00;
     background-color: black;
     display: flex;
+    height: 100vh;
+    overflow: hidden;
 }
 
 
@@ -37,10 +39,10 @@ div {
     
 }
 .box-containers {
-    height: 930px;
+    height: 100%;
  width: 100%;
     display: flex;
-    flex: 1;
+    flex: 100%;
     flex-direction: row;
     flex-wrap: nowrap;
     
@@ -65,12 +67,12 @@ div {
 .mini-box1 {
  
     display: flex;
-height: 50%;
+flex: 1;
 
 }
 .mini-box2 {
     display: flex;
-    height: 50%;
+    flex: 1;
   
     }
 
