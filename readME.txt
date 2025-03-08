@@ -1,6 +1,6 @@
 Thank you for visiting, and happy hacking!
 
-press and key on you keyboard in order to start "Fake hacking"!
+press any key on you keyboard in order to start "Fake hacking"!
 
 Skulls ascii art
 -https://emojicombos.com/skull-ascii-art
